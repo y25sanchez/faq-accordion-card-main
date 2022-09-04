@@ -96,7 +96,7 @@ summary:hover{
     color: var(--Soft-red);
 }
 
-#arrow{
+.arrow{
     position: absolute;
     right: 0.5rem;
     top: 2.3rem;
